@@ -1,0 +1,151 @@
+{
+  "meals": [
+    {
+      "id": "1",
+      "name": "lasagne",
+      "description": "Lasagne med grøntsager og mornay sauce",
+      "servings": 3,
+      "times": {
+        "preparation_minutes": 45,
+        "cooking_minutes": 30,
+        "total_minutes": 75
+      },
+      "ingredients": [
+        {
+          "name": "lasagne kit",
+          "amount": 1,
+          "unit": "stk",
+          "category": "krydderi",
+          "notes": null
+        },
+        {
+          "name": "dåsetomat",
+          "amount": 1,
+          "unit": "stk",
+          "category": "konserves",
+          "notes": null
+        },
+        {
+          "name": "fuldkorns lasagneplader",
+          "amount": 1,
+          "unit": "stk",
+          "category": "pasta",
+          "notes": null
+        },
+        {
+          "name": "løg",
+          "amount": 1,
+          "unit": "stk",
+          "category": "grøntsager",
+          "notes": null
+        },
+        {
+          "name": "hvidløg",
+          "amount": 4,
+          "unit": "fed",
+          "category": "grøntsager",
+          "notes": null
+        },
+        {
+          "name": "peberfrugt",
+          "amount": 1,
+          "unit": "stk",
+          "category": "grøntsager",
+          "notes": null
+        },
+        {
+          "name": "gulerødder",
+          "amount": 4,
+          "unit": "stk",
+          "category": "grøntsager",
+          "notes": null
+        },
+        {
+          "name": "mornay sauce",
+          "amount": 1,
+          "unit": "stk",
+          "category": "sauce",
+          "notes": null
+        }
+      ],
+      "tags": [
+        "børnevenligt",
+        "rester"
+      ],
+      "difficulty": "nem"
+    },
+    {
+      "id": "2",
+      "name": "kylling pasta med soltørrede tomater",
+      "description": "Frisk pasta i tomat sauce med kylling og soltørrede tomater",
+      "servings": 2,
+      "times": {
+        "preparation_minutes": 30,
+        "cooking_minutes": 30,
+        "total_minutes": 60
+      },
+      "ingredients": [
+        {
+          "name": "kyllingebryst",
+          "amount": 500,
+          "unit": "g",
+          "category": "kød",
+          "notes": "kan erstattes med kyllingeinderlår"
+        },
+        {
+          "name": "dåsetomat",
+          "amount": 1,
+          "unit": "stk",
+          "category": "konserves",
+          "notes": null
+        },
+        {
+          "name": "løg",
+          "amount": 1,
+          "unit": "stk",
+          "category": "grøntsager",
+          "notes": null
+        },
+        {
+          "name": "hvidløg",
+          "amount": 2,
+          "unit": "fed",
+          "category": "grøntsager",
+          "notes": null
+        },
+        {
+          "name": "peberfrugt",
+          "amount": 1,
+          "unit": "stk",
+          "category": "grøntsager",
+          "notes": null
+        },
+        {
+          "name": "madlavningsfløde",
+          "amount": 500,
+          "unit": "ml",
+          "category": "sauce",
+          "notes": null
+        },
+        {
+          "name": "soltørrede tomater",
+          "amount": 0.5,
+          "unit": "glas",
+          "category": "konserves",
+          "notes": null
+        },
+        {
+          "name": "frisk pasta",
+          "amount": 500,
+          "unit": "g",
+          "category": "pasta",
+          "notes": null
+        }
+      ],
+      "tags": [
+        "rester"
+      ],
+      "difficulty": "nem"
+    }
+  ]
+}
