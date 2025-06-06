@@ -4,7 +4,7 @@
       "id": "1",
       "name": "lasagne",
       "description": "Lasagne med grøntsager og mornay sauce",
-      "servings": 3,
+      "servings": 9,
       "times": {
         "preparation_minutes": 45,
         "cooking_minutes": 30,
@@ -78,7 +78,7 @@
       "id": "2",
       "name": "kylling pasta med soltørrede tomater",
       "description": "Frisk pasta i tomat sauce med kylling og soltørrede tomater",
-      "servings": 2,
+      "servings": 6,
       "times": {
         "preparation_minutes": 30,
         "cooking_minutes": 30,
@@ -144,6 +144,124 @@
       ],
       "tags": [
         "rester"
+      ],
+      "difficulty": "nem"
+    },
+    {
+      "id": "3",
+      "name": "cremet butter chicken",
+      "description": "Læker cremet butter chicken med varme krydderier fra det indiske køkken",
+      "servings": 6,
+      "times": {
+        "preparation_minutes": 10,
+        "cooking_minutes": 30,
+        "total_minutes": 40
+      },
+      "ingredients": [
+        {
+          "name": "kyllingebryst",
+          "amount": 600,
+          "unit": "g",
+          "category": "kød",
+          "notes": "filet eller lignende"
+        },
+        {
+          "name": "hakkede tomater",
+          "amount": 1,
+          "unit": "dåse",
+          "category": "konserves",
+          "notes": null
+        },
+        {
+          "name": "tomatkoncentrat",
+          "amount": 3,
+          "unit": "spsk",
+          "category": "konserves",
+          "notes": null
+        },
+        {
+          "name": "smør",
+          "amount": 25,
+          "unit": "g",
+          "category": "mejeri",
+          "notes": null
+        },
+        {
+          "name": "løg",
+          "amount": 1,
+          "unit": "stk",
+          "category": "grøntsager",
+          "notes": "grofthakket"
+        },
+        {
+          "name": "hvidløg",
+          "amount": 3,
+          "unit": "fed",
+          "category": "grøntsager",
+          "notes": "hakket"
+        },
+        {
+          "name": "ingefær",
+          "amount": 2,
+          "unit": "cm",
+          "category": "grøntsager",
+          "notes": "fintrevet, ca. 1 spsk"
+        },
+        {
+          "name": "garam masala",
+          "amount": 2,
+          "unit": "tsk",
+          "category": "krydderi",
+          "notes": null
+        },
+        {
+          "name": "koriander",
+          "amount": 1,
+          "unit": "tsk",
+          "category": "krydderi",
+          "notes": "stødt"
+        },
+        {
+          "name": "spidskommen",
+          "amount": 1,
+          "unit": "tsk",
+          "category": "krydderi",
+          "notes": "stødt"
+        },
+        {
+          "name": "mild chilipulver",
+          "amount": 1,
+          "unit": "tsk",
+          "category": "krydderi",
+          "notes": null
+        },
+        {
+          "name": "gurkemeje",
+          "amount": 1,
+          "unit": "tsk",
+          "category": "krydderi",
+          "notes": null
+        },
+        {
+          "name": "sukker",
+          "amount": 0.5,
+          "unit": "spsk",
+          "category": "basis",
+          "notes": null
+        },
+        {
+          "name": "piskefløde",
+          "amount": 400,
+          "unit": "ml",
+          "category": "mejeri",
+          "notes": "4-5 dl efter smag"
+        }
+      ],
+      "tags": [
+        "børnevenligt",
+        "indisk",
+        "hurtig mad",
+        "comfortfood"
       ],
       "difficulty": "nem"
     }
